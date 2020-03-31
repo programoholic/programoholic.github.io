@@ -355,6 +355,8 @@ MIT
 
 @angular/material/toolbar
 
+@angular/material/sidenav
+
 zone.js
 MIT
 The MIT License
