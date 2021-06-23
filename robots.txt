@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://programoholic.github.io/sitemap.xml
+Host: https://programoholic.github.io
