@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[8],{88:function(c,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Asana.61c493c0.svg"}}]);
+//# sourceMappingURL=8.b96782a4.chunk.js.map

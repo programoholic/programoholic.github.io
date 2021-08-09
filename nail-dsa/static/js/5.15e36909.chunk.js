@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[5],{82:function(e,a,c){"use strict";c.r(a),a.default=c.p+"static/media/Akuna Capital.4000bc38.svg"}}]);
+//# sourceMappingURL=5.15e36909.chunk.js.map

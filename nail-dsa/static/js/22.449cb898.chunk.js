@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[22],{117:function(e,c,s){"use strict";s.r(c),c.default=s.p+"static/media/Oracle.429c2ebd.svg"}}]);
+//# sourceMappingURL=22.449cb898.chunk.js.map

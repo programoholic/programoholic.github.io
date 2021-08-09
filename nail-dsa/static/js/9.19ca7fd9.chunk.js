@@ -1,0 +1,2 @@
+(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[9],{90:function(e,s,a){"use strict";a.r(s),s.default=a.p+"static/media/Atlassian.91444624.svg"}}]);
+//# sourceMappingURL=9.19ca7fd9.chunk.js.map
