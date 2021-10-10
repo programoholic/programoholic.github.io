@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[12],{96:function(e,a,c){"use strict";c.r(a),a.default=c.p+"static/media/Capital One.047e3dd1.svg"}}]);
-//# sourceMappingURL=12.358e8c32.chunk.js.map

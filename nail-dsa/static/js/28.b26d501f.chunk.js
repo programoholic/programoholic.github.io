@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[28],{128:function(e,a,c){"use strict";c.r(a),a.default=c.p+"static/media/Sap.df7655a3.svg"}}]);
-//# sourceMappingURL=28.b26d501f.chunk.js.map

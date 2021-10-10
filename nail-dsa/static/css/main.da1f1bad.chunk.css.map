@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,uCACE,kBACF","file":"main.da1f1bad.chunk.css","sourcesContent":["[data-tour-elem=\"controls\"] button:hover {\n  color: var(--green);\n}"]}

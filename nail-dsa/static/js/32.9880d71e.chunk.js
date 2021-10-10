@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[32],{139:function(e,c,a){"use strict";a.r(c),c.default=a.p+"static/media/Walmart.097c5562.svg"}}]);
-//# sourceMappingURL=32.9880d71e.chunk.js.map

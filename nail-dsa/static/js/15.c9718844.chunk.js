@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[15],{102:function(e,c,s){"use strict";s.r(c),c.default=s.p+"static/media/Goldman Sachs.1374635b.svg"}}]);
-//# sourceMappingURL=15.c9718844.chunk.js.map

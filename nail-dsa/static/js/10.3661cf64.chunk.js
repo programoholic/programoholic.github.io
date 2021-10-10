@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[10],{92:function(c,e,a){"use strict";a.r(e),e.default=a.p+"static/media/BlackRock.105a28af.svg"}}]);
-//# sourceMappingURL=10.3661cf64.chunk.js.map

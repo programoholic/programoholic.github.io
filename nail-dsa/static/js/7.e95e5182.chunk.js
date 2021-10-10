@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[7],{86:function(e,a,c){"use strict";c.r(a),a.default=c.p+"static/media/Apple.6e625aa8.svg"}}]);
-//# sourceMappingURL=7.e95e5182.chunk.js.map

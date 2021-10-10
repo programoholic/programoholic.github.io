@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[19],{110:function(e,c,s){"use strict";s.r(c),c.default=s.p+"static/media/LinkedIn.4f00d78f.svg"}}]);
-//# sourceMappingURL=19.9b89758f.chunk.js.map

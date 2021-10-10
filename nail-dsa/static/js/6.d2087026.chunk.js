@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[6],{84:function(e,c,s){"use strict";s.r(c),c.default=s.p+"static/media/Amazon.01d8b191.svg"}}]);
-//# sourceMappingURL=6.d2087026.chunk.js.map

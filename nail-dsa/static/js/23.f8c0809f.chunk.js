@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[23],{119:function(e,a,c){"use strict";c.r(a),a.default=c.p+"static/media/Palantir.0a75e6ff.svg"}}]);
-//# sourceMappingURL=23.f8c0809f.chunk.js.map

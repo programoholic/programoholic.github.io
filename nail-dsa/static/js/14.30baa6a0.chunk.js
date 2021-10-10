@@ -1,2 +1,0 @@
-(this["webpackJsonpcode-challenge"]=this["webpackJsonpcode-challenge"]||[]).push([[14],{100:function(e,c,s){"use strict";s.r(c),c.default=s.p+"static/media/Facebook.727c831e.svg"}}]);
-//# sourceMappingURL=14.30baa6a0.chunk.js.map
